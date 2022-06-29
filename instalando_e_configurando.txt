@@ -1,0 +1,5 @@
+Para instalar e configurar o git em no windows siga o passo a passo descrito nesse site: https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/
+
+Para instalar e configurar o git no seu terminal ubuntu, siga esse passo a passo: 
+1. Abra o terminal e execute os seguintes comandos: sudo apt-get update sudo apt-get install git.
+2. Verifique se a instalação ocorreu com sucesso usando git --version .

@@ -1,0 +1,1 @@
+O git serve para versionar o seu código, facilitando a sua vida como programador e também posibilitando um trabalho em equipe de forma mais ágil e organizada. o github tem a função de auxiliar tudo isso, fornecendo a possibilidade da criação de um repositório remoto. Existem outros sites que desempenham a mesma função, porém, o github é o mais utilizado e recomendado.

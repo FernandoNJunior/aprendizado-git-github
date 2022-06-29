@@ -1,0 +1,1 @@
+Podemos visualizar como uma árvore, onde temos o tronco (branch principal) e podemos criar vários galhos (outras branchs). Utilizando o comando merge podemos então fundir o conteúdo de uma branch com a principal. Isso é util para que possamos fazer alterações pontuais em alguma parte do código,testar e posteriormente juntar a mesma com o código principal. 

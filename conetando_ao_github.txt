@@ -1,0 +1,15 @@
+Seguindo os seguintes passos, fica bem fácil de criar e comitar arquivos em um repositório remoto.
+
+Criando a pasta do projeto, entre nela pela linha de comando, digite git init para o git reconhecer sua pasta como a de um repositório.
+
+Após ter criado o repositório remoto pelo github por exemplo, adicione o caminho com o comando git remote add origin git@github.com:seu-username/projeto-x.git
+
+Depois deixe os arquivos prontos para serem comitados com git add com o comando git add é possível adicionar todos arquivos criados de uma vez utilizando um ponto git add . ou simplesmente um arquivo de cada vez com git add arquivo.extensão
+
+Então já pode comitar os arquivos com git commit -m 'A mensagem referente ao commit' agora seus arquivos já estão no repositório local, quando quiser enviar para o repositório remoto, com o comando git push -u origin master
+
+Lembre-se que o origin é o nome do alias que você deu ao adicionar o repositório remoto, e master quer dizer o branch master em seu repositório.
+
+Para informações mais detalhadas, existe o Pro Git Book já traduzido para o português, é gratuito, só consultar.
+
+https://git-scm.com/book/pt-br/v1/
